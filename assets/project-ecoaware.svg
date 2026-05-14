@@ -1,0 +1,7 @@
+<svg width="360" height="170" viewBox="0 0 360 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="170" rx="24" fill="#0d1117"/><path d="M0 118 C70 82 150 150 230 108 C290 78 320 96 360 74 V170 H0Z" fill="#22c55e" opacity=".18"/>
+  <circle cx="54" cy="52" r="28" fill="#22c55e"/><path d="M43 54 C52 36 70 36 78 50 C65 50 54 57 43 72 C39 65 39 59 43 54Z" fill="#052e16"/>
+  <text x="98" y="52" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="25" font-weight="800">EcoAware-v3</text>
+  <text x="98" y="82" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="14">green habits · rewards · eco actions</text>
+  <text x="28" y="136" fill="#bbf7d0" font-family="Segoe UI, Arial" font-size="16" font-weight="700">React · AI · Sustainability</text>
+</svg>

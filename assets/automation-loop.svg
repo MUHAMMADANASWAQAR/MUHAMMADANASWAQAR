@@ -1,0 +1,16 @@
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22c55e"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <rect width="420" height="420" rx="28" fill="#0d1117"/>
+  <circle cx="210" cy="210" r="132" fill="none" stroke="url(#g)" stroke-width="8" stroke-dasharray="42 20">
+    <animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="210" cy="210" r="78" fill="#111827" stroke="#22c55e"/>
+  <text x="210" y="200" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="22" font-weight="800">IN LOOP</text>
+  <text x="210" y="230" text-anchor="middle" fill="#86efac" font-family="Segoe UI, Arial" font-size="22" font-weight="800">AUTOMATION</text>
+  <g font-family="Segoe UI, Arial" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="165" y="34" width="90" height="34" rx="17" fill="#13233a" stroke="#38bdf8"/><text x="210" y="56" fill="#e0f2fe">Plan</text>
+    <rect x="300" y="185" width="86" height="34" rx="17" fill="#13291f" stroke="#22c55e"/><text x="343" y="207" fill="#dcfce7">Act</text>
+    <rect x="162" y="350" width="96" height="34" rx="17" fill="#261b3f" stroke="#a78bfa"/><text x="210" y="372" fill="#ede9fe">Reflect</text>
+    <rect x="36" y="185" width="96" height="34" rx="17" fill="#2c1f12" stroke="#f59e0b"/><text x="84" y="207" fill="#fef3c7">Improve</text>
+  </g>
+</svg>

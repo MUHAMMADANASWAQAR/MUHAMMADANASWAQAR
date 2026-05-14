@@ -1,0 +1,7 @@
+<svg width="360" height="170" viewBox="0 0 360 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="170" rx="24" fill="#0d1117"/><path d="M42 124 L102 84 L158 104 L230 52 L318 92" fill="none" stroke="#38bdf8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="230" cy="52" r="10" fill="#22c55e"/><circle cx="318" cy="92" r="10" fill="#a78bfa"/>
+  <text x="28" y="48" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="25" font-weight="800">Stock Agents</text>
+  <text x="28" y="78" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="14">research · charts · report automation</text>
+  <text x="28" y="146" fill="#dbeafe" font-family="Segoe UI, Arial" font-size="16" font-weight="700">LangGraph · FastAPI · Python</text>
+</svg>

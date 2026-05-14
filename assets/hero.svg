@@ -1,0 +1,47 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
+      <stop stop-color="#020617"/>
+      <stop offset=".45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#052e2b"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
+  <path d="M0 290 C210 220 310 370 520 292 C740 210 890 300 1200 185 V420 H0 Z" fill="#0f766e" opacity=".16"/>
+  <path d="M0 328 C250 250 390 394 600 330 C835 258 930 338 1200 238 V420 H0 Z" fill="#22c55e" opacity=".10"/>
+  <g opacity=".28">
+    <path d="M90 340 L270 236 L450 340 L270 384 Z" fill="#1f2937"/>
+    <path d="M270 236 L450 340 L450 380 L270 276 Z" fill="#111827"/>
+    <path d="M90 340 L270 444 L270 276 L90 380 Z" fill="#0b1220"/>
+  </g>
+  <g transform="translate(785 68)" filter="url(#glow)">
+    <path d="M154 0 L308 89 V267 L154 356 L0 267 V89 Z" fill="#07111f" stroke="url(#green)" stroke-width="2"/>
+    <path d="M154 44 L270 111 V245 L154 312 L38 245 V111 Z" fill="#0b1726" stroke="#22c55e" opacity=".72"/>
+    <circle cx="154" cy="178" r="58" fill="url(#green)" opacity=".92"/>
+    <path d="M125 182 C145 142 184 139 203 170 C176 168 153 179 125 214 C119 205 118 194 125 182Z" fill="#052e16"/>
+    <circle cx="154" cy="178" r="96" stroke="#38bdf8" stroke-dasharray="8 12" opacity=".55">
+      <animateTransform attributeName="transform" type="rotate" from="0 154 178" to="360 154 178" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g filter="url(#glow)">
+    <text x="70" y="120" fill="#a7f3d0" font-family="Segoe UI, Arial" font-size="22" font-weight="600">AGENTIC AI ENGINEER</text>
+    <text x="70" y="190" fill="white" font-family="Segoe UI, Arial" font-size="58" font-weight="800">Muhammad Anas Waqar</text>
+    <text x="70" y="244" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="25">LangGraph automation · ML systems · FastAPI backends · cloud-native apps</text>
+  </g>
+  <g transform="translate(70 292)">
+    <rect width="170" height="48" rx="24" fill="#10233c" stroke="#38bdf8" opacity=".9"/>
+    <text x="85" y="31" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI, Arial" font-size="16" font-weight="700">RAG</text>
+    <rect x="190" width="170" height="48" rx="24" fill="#10291d" stroke="#22c55e" opacity=".9"/>
+    <text x="275" y="31" text-anchor="middle" fill="#dcfce7" font-family="Segoe UI, Arial" font-size="16" font-weight="700">LANGGRAPH</text>
+    <rect x="380" width="170" height="48" rx="24" fill="#261b3f" stroke="#a78bfa" opacity=".9"/>
+    <text x="465" y="31" text-anchor="middle" fill="#ede9fe" font-family="Segoe UI, Arial" font-size="16" font-weight="700">CLOUD AI</text>
+  </g>
+</svg>

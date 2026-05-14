@@ -1,0 +1,6 @@
+<svg width="360" height="170" viewBox="0 0 360 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="170" rx="24" fill="#0d1117"/>
+  <g transform="translate(44 32)"><rect width="56" height="56" rx="16" fill="#22c55e"/><rect x="72" y="18" width="56" height="56" rx="16" fill="#38bdf8"/><rect x="144" y="2" width="56" height="56" rx="16" fill="#a78bfa"/></g>
+  <text x="28" y="112" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="25" font-weight="800">Agentic 75 Hard</text>
+  <text x="28" y="142" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="14">daily AI systems and workflow practice</text>
+</svg>
