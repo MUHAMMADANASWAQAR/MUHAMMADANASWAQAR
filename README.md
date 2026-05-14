@@ -64,11 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADANASWAQAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADANASWAQAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MUHAMMADANASWAQAR&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADANASWAQAR&theme=react-dark&hide_border=true&bg_color=0D1117&color=22C55E&line=38BDF8&point=A78BFA" width="49%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/engineering-console.svg" alt="Engineering console" width="100%" />
 </p>
