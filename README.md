@@ -3,6 +3,18 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/anaswaqar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:muhammadanaswaqar2626@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/MUHAMMADANASWAQAR">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/12NGRoIq1sK0l61zfnvcqxRHRA-CFjkSh/view">
     <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-cyberpalm.svg" alt="Cyber Palm project" width="49%" />
   </a>
