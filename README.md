@@ -1,10 +1,14 @@
+<h1 align="center">Muhammad Anas Waqar</h1>
+
+<h3 align="center">Agentic AI · RAG · LangGraph · FastAPI · Cloud Native Systems</h3>
+
 <p align="center">
-  <img src="./assets/hero.svg" alt="Muhammad Anas Waqar - AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/hero.svg" alt="Muhammad Anas Waqar - AI Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/orbit.svg" alt="AI engineering skill orbit" width="64%" />
-  <img src="./assets/automation-loop.svg" alt="Agent automation loop" width="34%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/orbit.svg" alt="AI engineering skill orbit" width="64%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/automation-loop.svg" alt="Agent automation loop" width="34%" />
 </p>
 
 <p align="center">
@@ -23,13 +27,13 @@
 
 <p align="center">
   <a href="https://github.com/MUHAMMADANASWAQAR/EcoAware-v3">
-    <img src="./assets/project-ecoaware.svg" alt="EcoAware project card" width="32%" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-ecoaware.svg" alt="EcoAware project card" width="32%" />
   </a>
   <a href="https://github.com/MUHAMMADANASWAQAR/stock-market-agents">
-    <img src="./assets/project-stock.svg" alt="Stock agents project card" width="32%" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-stock.svg" alt="Stock agents project card" width="32%" />
   </a>
   <a href="https://github.com/MUHAMMADANASWAQAR/Agentic-75-Hard-Day">
-    <img src="./assets/project-agentic.svg" alt="Agentic 75 Hard project card" width="32%" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-agentic.svg" alt="Agentic 75 Hard project card" width="32%" />
   </a>
 </p>
 
