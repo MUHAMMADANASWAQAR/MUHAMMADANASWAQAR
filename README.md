@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/12NGRoIq1sK0l61zfnvcqxRHRA-CFjkSh/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/12NGRoIq1sK0l61zfnvcqxRHRA-CFjkSh/view">
     <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-cyberpalm.svg" alt="Cyber Palm project" width="49%" />
   </a>
   <a href="https://www.ecoaware.co/">

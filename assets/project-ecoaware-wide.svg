@@ -15,4 +15,6 @@
     <rect x="176" y="148" width="132" height="36" rx="18" fill="#10233a" stroke="#38bdf8"/><text x="242" y="171" text-anchor="middle" fill="#e0f2fe" font-size="13">Eco Impact</text>
     <rect x="34" y="196" width="236" height="36" rx="18" fill="#1d2a18" stroke="#a3e635"/><text x="152" y="219" text-anchor="middle" fill="#ecfccb" font-size="13">TEKNOFEST · Rank 17</text>
   </g>
+  <rect x="398" y="196" width="128" height="36" rx="18" fill="#22c55e"/>
+  <text x="462" y="219" text-anchor="middle" fill="#052e16" font-family="Segoe UI, Arial" font-size="13" font-weight="900">OPEN SITE</text>
 </svg>
