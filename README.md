@@ -41,17 +41,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/MUHAMMADANASWAQAR/EcoAware-v3">
-    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-ecoaware.svg" alt="EcoAware code card" width="32%" />
-  </a>
-  <a href="https://github.com/MUHAMMADANASWAQAR/FastAPI">
-    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-fastapi.svg" alt="FastAPI project card" width="32%" />
-  </a>
-  <a href="https://github.com/MUHAMMADANASWAQAR/Agentic-75-Hard-Day">
-    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-agentic.svg" alt="Agentic 75 Hard project card" width="32%" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/engineering-console.svg" alt="Engineering console" width="100%" />
