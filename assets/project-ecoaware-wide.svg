@@ -12,9 +12,8 @@
       <animateTransform attributeName="transform" type="rotate" from="0 88 88" to="360 88 88" dur="24s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <text x="34" y="52" fill="#86efac" font-family="Segoe UI, Arial" font-size="15" font-weight="800">16/12/2024 - 10/03/2025</text>
-  <text x="34" y="92" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="35" font-weight="900">EcoAware</text>
-  <text x="34" y="123" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">Sustainability and ecological footprint tracker</text>
+  <text x="34" y="74" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="35" font-weight="900">EcoAware</text>
+  <text x="34" y="108" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">Sustainability and ecological footprint tracker</text>
   <g font-family="Segoe UI, Arial" font-weight="800">
     <rect x="34" y="150" width="130" height="36" rx="18" fill="#10291d" stroke="#22c55e"/><text x="99" y="173" text-anchor="middle" fill="#dcfce7" font-size="13">Web App</text>
     <rect x="176" y="150" width="132" height="36" rx="18" fill="#10233a" stroke="#38bdf8"/><text x="242" y="173" text-anchor="middle" fill="#e0f2fe" font-size="13">Eco Impact</text>

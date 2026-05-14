@@ -47,8 +47,9 @@
   <g filter="url(#glow)" font-family="Segoe UI, Arial">
     <text x="70" y="104" fill="#86efac" font-size="21" font-weight="800" letter-spacing="2">AGENTIC AI ENGINEER</text>
     <text x="70" y="177" fill="#f8fafc" font-size="60" font-weight="900">Muhammad Anas Waqar</text>
-    <text x="72" y="224" fill="#cbd5e1" font-size="24" font-weight="600">RAG systems, LangGraph agents, ML products, FastAPI backends, cloud-native automation.</text>
-    <text x="72" y="260" fill="#94a3b8" font-size="18" font-weight="700">Cyber Palm finalist + EcoAware sustainability platform.</text>
+    <text x="72" y="224" fill="#cbd5e1" font-size="24" font-weight="600">RAG systems, LangGraph agents, ML products, FastAPI backends.</text>
+    <text x="72" y="258" fill="#94a3b8" font-size="22" font-weight="800">Cloud-native automation.</text>
+    <text x="72" y="286" fill="#94a3b8" font-size="18" font-weight="700">Cyber Palm finalist + EcoAware sustainability platform.</text>
   </g>
 
   <g transform="translate(70 304)" font-family="Segoe UI, Arial" font-size="15" font-weight="900">
