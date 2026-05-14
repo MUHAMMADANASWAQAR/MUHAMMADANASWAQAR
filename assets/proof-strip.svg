@@ -1,0 +1,49 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="150">
+      <stop stop-color="#0d1117"/>
+      <stop offset=".52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#071a24"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22c55e"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" rx="26" fill="url(#panel)"/>
+  <rect x="24" y="24" width="1152" height="102" rx="22" fill="#020617" opacity=".62" stroke="#1f2937"/>
+  <path d="M68 75 H1132" stroke="url(#line)" stroke-width="2" stroke-dasharray="10 16" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g filter="url(#glow)" font-family="Segoe UI, Arial">
+    <g transform="translate(76 42)">
+      <circle cx="33" cy="33" r="28" fill="#052e16" stroke="#22c55e"/>
+      <text x="33" y="40" text-anchor="middle" fill="#86efac" font-size="24" font-weight="900">4</text>
+      <text x="82" y="28" fill="#f8fafc" font-size="18" font-weight="900">TEKNOFEST</text>
+      <text x="82" y="53" fill="#94a3b8" font-size="14" font-weight="700">Cyber Palm rank</text>
+    </g>
+    <g transform="translate(348 42)">
+      <circle cx="33" cy="33" r="28" fill="#082f49" stroke="#38bdf8"/>
+      <text x="33" y="40" text-anchor="middle" fill="#7dd3fc" font-size="21" font-weight="900">17</text>
+      <text x="82" y="28" fill="#f8fafc" font-size="18" font-weight="900">ECOAWARE</text>
+      <text x="82" y="53" fill="#94a3b8" font-size="14" font-weight="700">international rank</text>
+    </g>
+    <g transform="translate(644 42)">
+      <circle cx="33" cy="33" r="28" fill="#2e1065" stroke="#a78bfa"/>
+      <text x="33" y="40" text-anchor="middle" fill="#ddd6fe" font-size="20" font-weight="900">AI</text>
+      <text x="82" y="28" fill="#f8fafc" font-size="18" font-weight="900">AGENTIC STACK</text>
+      <text x="82" y="53" fill="#94a3b8" font-size="14" font-weight="700">RAG, LangGraph, FastAPI</text>
+    </g>
+    <g transform="translate(948 42)">
+      <circle cx="33" cy="33" r="28" fill="#431407" stroke="#fb923c"/>
+      <text x="33" y="40" text-anchor="middle" fill="#fed7aa" font-size="18" font-weight="900">ML</text>
+      <text x="82" y="28" fill="#f8fafc" font-size="18" font-weight="900">REAL SYSTEMS</text>
+      <text x="82" y="53" fill="#94a3b8" font-size="14" font-weight="700">hardware + web + cloud</text>
+    </g>
+  </g>
+</svg>
