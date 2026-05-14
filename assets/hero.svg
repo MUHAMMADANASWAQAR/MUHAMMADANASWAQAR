@@ -32,9 +32,9 @@
     </circle>
   </g>
   <g filter="url(#glow)">
-    <text x="70" y="120" fill="#a7f3d0" font-family="Segoe UI, Arial" font-size="22" font-weight="600">AGENTIC AI ENGINEER</text>
+    <text x="70" y="120" fill="#a7f3d0" font-family="Segoe UI, Arial" font-size="22" font-weight="600">AI ENGINEER · TEKNOFEST FINALIST · AGENTIC SYSTEMS</text>
     <text x="70" y="190" fill="white" font-family="Segoe UI, Arial" font-size="58" font-weight="800">Muhammad Anas Waqar</text>
-    <text x="70" y="244" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="25">LangGraph automation · ML systems · FastAPI backends · cloud-native apps</text>
+    <text x="70" y="244" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="25">Cyber Palm · EcoAware · RAG · LangGraph · FastAPI · cloud-native AI</text>
   </g>
   <g transform="translate(70 292)">
     <rect width="170" height="48" rx="24" fill="#10233c" stroke="#38bdf8" opacity=".9"/>

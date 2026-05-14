@@ -1,0 +1,18 @@
+<svg width="590" height="260" viewBox="0 0 590 260" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="eco" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22c55e"/><stop offset=".55" stop-color="#14b8a6"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <rect width="590" height="260" rx="28" fill="#0d1117"/>
+  <path d="M0 178 C100 110 190 204 290 142 C395 78 472 142 590 82 V260 H0Z" fill="#22c55e" opacity=".14"/>
+  <g transform="translate(384 42)">
+    <circle cx="88" cy="88" r="76" fill="url(#eco)" opacity=".95"/>
+    <path d="M50 100 C70 52 124 50 146 88 C116 84 84 100 55 142 C45 127 43 112 50 100Z" fill="#052e16"/>
+    <circle cx="88" cy="88" r="108" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="10 12" opacity=".6"/>
+  </g>
+  <text x="34" y="54" fill="#86efac" font-family="Segoe UI, Arial" font-size="15" font-weight="800">16/12/2024 - 10/03/2025</text>
+  <text x="34" y="92" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="34" font-weight="900">EcoAware</text>
+  <text x="34" y="122" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">Sustainability and ecological footprint tracker</text>
+  <g font-family="Segoe UI, Arial" font-weight="800">
+    <rect x="34" y="148" width="130" height="36" rx="18" fill="#10291d" stroke="#22c55e"/><text x="99" y="171" text-anchor="middle" fill="#dcfce7" font-size="13">Web App</text>
+    <rect x="176" y="148" width="132" height="36" rx="18" fill="#10233a" stroke="#38bdf8"/><text x="242" y="171" text-anchor="middle" fill="#e0f2fe" font-size="13">Eco Impact</text>
+    <rect x="34" y="196" width="236" height="36" rx="18" fill="#1d2a18" stroke="#a3e635"/><text x="152" y="219" text-anchor="middle" fill="#ecfccb" font-size="13">TEKNOFEST · Rank 17</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="590" height="260" viewBox="0 0 590 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="590" height="260" rx="28" fill="#0d1117"/>
+  <path d="M0 184 C130 116 222 238 362 158 C450 108 506 132 590 86 V260 H0Z" fill="#38bdf8" opacity=".10"/>
+  <g transform="translate(390 38)" filter="url(#glow)">
+    <path d="M82 162 C48 135 38 96 52 55 C56 43 72 45 73 58 L76 102 L85 26 C87 10 109 12 109 28 L108 104 L123 32 C127 17 148 21 146 37 L134 111 L158 61 C164 48 183 56 178 70 L153 138 C143 165 111 184 82 162Z" fill="#111827" stroke="url(#cyber)" stroke-width="4"/>
+    <circle cx="75" cy="104" r="5" fill="#22c55e"/><circle cx="108" cy="104" r="5" fill="#38bdf8"/><circle cx="135" cy="111" r="5" fill="#a78bfa"/>
+  </g>
+  <text x="34" y="54" fill="#67e8f9" font-family="Segoe UI, Arial" font-size="15" font-weight="800">12/01/2025 - 04/05/2025</text>
+  <text x="34" y="92" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="34" font-weight="900">Cyber Palm</text>
+  <text x="34" y="122" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="16">AI-based sign language recognition smart glove</text>
+  <g font-family="Segoe UI, Arial" font-weight="800">
+    <rect x="34" y="148" width="116" height="36" rx="18" fill="#13233a" stroke="#38bdf8"/><text x="92" y="171" text-anchor="middle" fill="#e0f2fe" font-size="13">ML</text>
+    <rect x="162" y="148" width="160" height="36" rx="18" fill="#1d1633" stroke="#a78bfa"/><text x="242" y="171" text-anchor="middle" fill="#ede9fe" font-size="13">Embedded Systems</text>
+    <rect x="34" y="196" width="246" height="36" rx="18" fill="#10291d" stroke="#22c55e"/><text x="157" y="219" text-anchor="middle" fill="#dcfce7" font-size="13">TEKNOFEST Finalist · Rank 4</text>
+  </g>
+</svg>
