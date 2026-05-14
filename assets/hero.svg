@@ -49,11 +49,11 @@
     <text x="70" y="177" fill="#f8fafc" font-size="60" font-weight="900">Muhammad Anas Waqar</text>
     <text x="72" y="240" fill="#cbd5e1" font-size="24" font-weight="700">
       <tspan>Hi, I am BSc Computer Engineering (3.85/4.0)</tspan>
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="12s" repeatCount="indefinite"/>
     </text>
     <text x="72" y="240" fill="#86efac" font-size="24" font-weight="800" opacity="0">
       <tspan>Constantly improving ML skills &amp; building in public</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
     </text>
   </g>
 

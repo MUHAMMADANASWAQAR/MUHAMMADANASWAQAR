@@ -46,3 +46,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/engineering-console.svg?v=20260514-console-2" alt="Engineering console" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MUHAMMADANASWAQAR&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E&v=20260514" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADANASWAQAR&theme=react-dark&hide_border=true&bg_color=0D1117&color=22C55E&line=38BDF8&point=A78BFA&v=20260514" alt="Contribution graph" width="49%" />
+</p>
