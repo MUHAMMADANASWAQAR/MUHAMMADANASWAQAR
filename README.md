@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/hero.svg" alt="Muhammad Anas Waqar - Agentic AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/hero.svg?v=20260514-hero-2" alt="Muhammad Anas Waqar - Agentic AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/12NGRoIq1sK0l61zfnvcqxRHRA-CFjkSh/view">
-    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-cyberpalm.svg" alt="Cyber Palm project" width="49%" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-cyberpalm.svg?v=20260514-cards-2" alt="Cyber Palm project" width="49%" />
   </a>
   <a href="https://www.ecoaware.co/">
-    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-ecoaware-wide.svg" alt="EcoAware project" width="49%" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-ecoaware-wide.svg?v=20260514-cards-2" alt="EcoAware project" width="49%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/orbit.svg" alt="AI engineering skill orbit" width="62%" />
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/automation-loop.svg" alt="Agent automation loop" width="36%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/orbit.svg?v=20260514" alt="AI engineering skill orbit" width="62%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/automation-loop.svg?v=20260514" alt="Agent automation loop" width="36%" />
 </p>
 
 <p align="center">
@@ -44,5 +44,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/engineering-console.svg" alt="Engineering console" width="100%" />
+  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/engineering-console.svg?v=20260514-console-2" alt="Engineering console" width="100%" />
 </p>
