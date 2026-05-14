@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/proof-strip.svg" alt="AI engineering proof strip" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://drive.google.com/file/d/12NGRoIq1sK0l61zfnvcqxRHRA-CFjkSh/view">
     <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/project-cyberpalm.svg" alt="Cyber Palm project" width="49%" />
   </a>
@@ -43,10 +39,6 @@
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADANASWAQAR/MUHAMMADANASWAQAR/main/assets/tekno-timeline.svg" alt="TEKNOFEST timeline" width="100%" />
 </p>
 
 <p align="center">
